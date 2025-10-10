@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Firmware artifacts (keep manifest.csv)
+firmware/**/firmware*.bin
+firmware/**/.counter
+!.gitkeep
+!firmware/**/manifest.csv
