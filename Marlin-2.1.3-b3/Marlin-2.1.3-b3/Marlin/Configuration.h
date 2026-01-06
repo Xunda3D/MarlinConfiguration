@@ -130,12 +130,12 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Xunda Tech 1XT102"
+#define CUSTOM_MACHINE_NAME "Xunda Tech 1XT200"
 //#define CONFIGURABLE_MACHINE_NAME // Add G-code M550 to set/report the machine name
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
-#define MACHINE_UUID "99b7547c-4a47-424e-b24f-47fe1ea0353a"
+#define MACHINE_UUID "3f1eae70-be6f-4af0-b456-ba9eb55c9ffb"
 
 // @section stepper drivers
 
